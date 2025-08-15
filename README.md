@@ -28,7 +28,7 @@ pip3 install torch torchvision numpy matplotlib tqdm
 ## Training the Model
 1. Open `FinalProject.ipynb` in Jupyter or VS Code.
 2. Run all cells to train both the baseline and augmented models.
-3. Training is set to 3 epochs for demonstration. You can increase or decrease epochs as needed.
+3. Training is set to 1 epochs for demonstration. You can increase or decrease epochs as needed.
 
 ## Output Verification
 - The notebook prints model parameter counts, test accuracy, and training time for both models.
